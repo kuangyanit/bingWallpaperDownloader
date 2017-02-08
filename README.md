@@ -38,7 +38,10 @@
   }
 }
 
-3.壁纸地址即为：https://www.bing.com/az/hprichbg/rb/ItapuaLighthouse_ZH-CN10867280946_1920x1080.jpg
+3.壁纸地址即为：
+
+https://www.bing.com/az/hprichbg/rb/ItapuaLighthouse_ZH-CN10867280946_1920x1080.jpg
+
 (由https://www.bing.com/与请求结果中的url拼接而成)
 
 
