@@ -6,7 +6,7 @@
 
 ## 2.实现逻辑
 
-1.请求 ** http://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1 ** 获取壁纸信息
+1.请求 http://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1 获取壁纸信息
 
 2.请求结果如下：
 
@@ -39,7 +39,7 @@
 }
 
 3.壁纸地址即为：https://www.bing.com/az/hprichbg/rb/ItapuaLighthouse_ZH-CN10867280946_1920x1080.jpg
-[由https://www.bing.com/与请求结果中的url拼接而成]
+(由https://www.bing.com/与请求结果中的url拼接而成)
 
 
 4.通过壁纸地址下载该壁纸
