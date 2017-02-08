@@ -10,6 +10,7 @@
 
 2.请求结果如下：
 
+````json
 {
   "images": [
     {
@@ -37,13 +38,11 @@
     "walls": "下载今日美图。仅限用作桌面壁纸。"
   }
 }
+````
 
 3.壁纸地址即为：
 
 https://www.bing.com/az/hprichbg/rb/ItapuaLighthouse_ZH-CN10867280946_1920x1080.jpg
-
-(由https://www.bing.com/与请求结果中的url拼接而成)
-
 
 4.通过壁纸地址下载该壁纸
 
